@@ -1,0 +1,3 @@
+git pull  https://github.com/0708pasha/ML_YANDEX
+git push  https://github.com/0708pasha/ML_YANDEX
+
