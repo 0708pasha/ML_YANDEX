@@ -1,3 +1,8 @@
+забрать:
 git pull  https://github.com/0708pasha/ML_YANDEX
+
+
+отправить:
+git commit -m -a
 git push  https://github.com/0708pasha/ML_YANDEX
 
