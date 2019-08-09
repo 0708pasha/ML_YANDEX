@@ -3,6 +3,6 @@ git pull  https://github.com/0708pasha/ML_YANDEX
 
 
 отправить:
-git commit -m -a
+git commit -m -a -all
 git push  https://github.com/0708pasha/ML_YANDEX
 
